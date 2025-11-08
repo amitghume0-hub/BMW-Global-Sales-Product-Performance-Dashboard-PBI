@@ -114,8 +114,9 @@ This dashboard enables **BMW’s sales and product teams** to:
 ---
 
 ## 📸 Dashboard Preview
-![BMW Dashboard Preview](https://ik.imagekit.io/r4tkneg47/Screenshot%202025-10-07%20082655.png?updatedAt=1762617654880)
 
+![BMW Dashboard Product View](https://ik.imagekit.io/r4tkneg47/Screenshot%202025-11-08%20213957.png?updatedAt=1762618247820)
+![BMW Dashboard Preview](https://ik.imagekit.io/r4tkneg47/Screenshot%202025-10-07%20082655.png?updatedAt=1762617654880)
 ---
 
 ## 👤 Author
